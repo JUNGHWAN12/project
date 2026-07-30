@@ -4,7 +4,7 @@
 
 **Python으로 시작하는 작고 단단한 프로젝트**
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.10-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-in%20progress-F7DF1E?style=flat-square)](#-로드맵)
 [![GitHub last commit](https://img.shields.io/github/last-commit/JUNGHWAN12/project?style=flat-square)](https://github.com/JUNGHWAN12/project/commits/main)
 [![GitHub stars](https://img.shields.io/github/stars/JUNGHWAN12/project?style=flat-square)](https://github.com/JUNGHWAN12/project/stargazers)
